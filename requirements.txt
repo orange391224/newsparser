@@ -16,7 +16,7 @@ MarkupSafe==1.1.0
 newspaper3k==0.2.8
 nltk==3.4
 peewee==3.8.2
-Pillow==5.4.1
+Pillow==8.3.2
 pygubu==0.9.8.2
 python-dateutil==2.7.5
 python-docx==0.8.7
